@@ -1,2 +1,3 @@
 Welcome guys to my GitHub profile!
-lord have mercy!
+HELLO WORLD
+my name is your name lol
